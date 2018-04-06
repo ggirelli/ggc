@@ -14,6 +14,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [0.0.1] - 2018-04-06
 
+First release.
+
+
+---
 
 
 [Unreleased] https://github.com/ggirelli/ggc  
