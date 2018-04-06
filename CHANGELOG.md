@@ -17,4 +17,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 
 [Unreleased] https://github.com/ggirelli/ggc
-[0.0.1] https://github.com/ggirelli/ggc/releases/tag/v2.0.1
+[0.0.1] https://github.com/ggirelli/ggc/releases/tag/v0.0.1
