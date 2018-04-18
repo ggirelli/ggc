@@ -12,6 +12,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 
 
+## [0.0.2] - 2018-04-18
+### Added
+- `prompt.ask()`
+
+
+
 ## [0.0.1] - 2018-04-06
 
 First release.
@@ -22,3 +28,4 @@ First release.
 
 [Unreleased] https://github.com/ggirelli/ggc  
 [0.0.1] https://github.com/ggirelli/ggc/releases/tag/v0.0.1  
+[0.0.2] https://github.com/ggirelli/ggc/releases/tag/v0.0.2  

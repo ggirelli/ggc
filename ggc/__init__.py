@@ -10,7 +10,7 @@
 
 __all__ = ["biopython", "tqdm"]
 
-from ggc import args, fasta, file
+from ggc import args, fasta, file, prompt
 
 # END ==========================================================================
 

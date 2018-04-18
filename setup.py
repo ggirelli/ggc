@@ -20,7 +20,7 @@ with open(os.path.join(here, 'README.rst'), encoding='utf-8') as f:
 	long_description = f.read()
 
 setup(name='ggc',
-	version='0.0.1',
+	version='0.0.2',
 	description='''Basic methods, for common usage across packages''',
 	long_description=long_description,
 	url='https://github.com/ggirelli/ggc',
