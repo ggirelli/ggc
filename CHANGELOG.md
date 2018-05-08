@@ -12,6 +12,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 
 
+## [0.0.3] - 2018-05-08
+### Added
+- `args.export_settings()`
+
+
+
 ## [0.0.2] - 2018-04-18
 ### Added
 - `prompt.ask()`

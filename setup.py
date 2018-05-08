@@ -20,7 +20,7 @@ with open(os.path.join(here, 'README.rst'), encoding='utf-8') as f:
 	long_description = f.read()
 
 setup(name='ggc',
-	version='0.0.2.post1',
+	version='0.0.3',
 	description='''Basic methods, for common usage across packages''',
 	long_description=long_description,
 	url='https://github.com/ggirelli/ggc',
@@ -37,7 +37,7 @@ setup(name='ggc',
 	],
 	keywords='common',
 	packages=find_packages(),
-	install_requires=["biopython", "tqdm"],
+	install_requires=["biopython>=1.70", "tqdm>=4.19.8"],
 	scripts=[],
 	test_suite="nose.collector",
 	tests_require=["nose"],
